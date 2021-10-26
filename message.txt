@@ -4,14 +4,12 @@
  "newsitems": [ 
  { 
  "gid": 2543829635484,
- "title": "Информация о сервере!",
+ "title": "Информация!",
  "url": "https://vk.com/lifefinerust",
  "is_external_url": true,
  "author": "Администрация LifeFine",
- "информация": "[img]https://cdn.discordapp.com/attachments/833738830896431147/900055561201156227/2323805154_preview_4141.jpg[/img]
-Воспроизведен первый глобальный WIPE - LifeFineRUST
-
-Промокод в честь открытия - NewGlobalWipe
+ "информация": "[img]https://cdn.discordapp.com/attachments/782650444341444658/902544579709005824/81e5c71198c74428.jpg[/img]
+Завтра будет воспроизведён глобальный WIPE! - LifeFineRUST
 
 Игровой магазин -> lfine.shop
 
